@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 1b44911087bd8184cac56d8a16000886
+  - enabled: 1
+    path: Assets/Scenes/Solar System.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Mars.unity
+    guid: 41209d845b78ee44193554dde9a76c44
+  - enabled: 1
+    path: Assets/Scenes/Earth.unity
+    guid: f7d2a5d9a4d6d4b4da16e47abd4dc1f7
+  m_configObjects: {}
